@@ -440,7 +440,11 @@ p {
 	color: white;
 }
 
-
+#projects .project-info a {
+	color: red;
+	text-decoration: underline;
+	font-size: large;
+}
 
 #projects .project-img {
 	flex-basis: 50%;
@@ -465,6 +469,8 @@ p {
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
+
+
 /* End Projects section */
 
 /* About Section */
@@ -501,7 +507,8 @@ p {
 	height: 100%;
 	width: 100%;
 	position: relative;
-	border: 10px solid white;
+	border: 10px solid crimson;
+	border-radius: 5px;
 }
 #about .col-left .about-img::after {
 	content: '';
@@ -510,7 +517,8 @@ p {
 	top: 19px;
 	height: 98%;
 	width: 98%;
-	border: 7px solid crimson;
+	border: 7px solid white;
+	border-radius: 5px;
 	z-index: -1;
 }
 /* End About Section */
