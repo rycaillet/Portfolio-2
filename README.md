@@ -1,6 +1,6 @@
 # Portfolio-2
 
-![image](../Portfolio-2/images/portfolio-2.png)
+![image](./images/portfolio-2.png)
 
 ## **_Welcome To My Portfolio_**
 
