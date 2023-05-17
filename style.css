@@ -393,6 +393,8 @@ p {
 #services .service-item p {
 	color: white;
 	text-align: left;
+	margin-top: 50px;
+	margin-bottom: 100px;
 }
 /* End Services Section */
 
